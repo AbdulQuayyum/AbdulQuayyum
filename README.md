@@ -1,3 +1,11 @@
+<!-- Banner Image -->
+
+<a href="https://victoreke.com">
+  <img src="https://komarev.com/ghpvc/?username=evavic44&style=flat-square&color=6cd63e">
+  <img src="https://user-images.githubusercontent.com/62628408/157836760-fcd8135e-7c17-4063-ad43-db139a9160db.gif" width="100%">
+</a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=nunito&color=F7F7F7&lines=Software+Developer;Front-End+Developer;Solving+Problems+With+Technologies)](https://git.io/typing-svg)
+
 Hi 👋🏾 My name is Alao Abdul-Quayyum
 ===================================
 
