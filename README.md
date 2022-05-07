@@ -1,8 +1,3 @@
-<!-- Banner Image -->
-
-<a href="">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=nunito&color=F7F7F7&lines=Software+Developer;Front-End+Developer;Solving+Problems+With+Technologies)](https://git.io/typing-svg)
-</a>
 
 
 Hi 👋🏾 My name is Alao Abdul-Quayyum
