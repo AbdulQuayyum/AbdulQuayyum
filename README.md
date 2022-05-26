@@ -12,7 +12,7 @@ Software Developer using JavaScript || TypeScript || React.Js || Next.Js || Expr
 * 🖥️  See my portfolio at [Alao Abdul-Quayyum](http://alao-abdul-quayyum-portfolio.vercel.app/)
 * ✉️  You can contact me at [alaoabdulquayyumm@gmail.com](mailto:alaoabdulquayyumm@gmail.com)
 * 🧠  I'm learning More Frameworks and languages
-* 🤝  I'm open to collaborating on intresting projects
+* 🤝  I'm open to collaborating on projects
 * ⚡  I don't usually tell people this ............... but I'm an Anti-Hero that fights Bugs at night🕷🐞🤺
 
 ### Skills
