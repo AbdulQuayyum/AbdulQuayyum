@@ -6,8 +6,6 @@ Hi 👋🏾 My name is Alao Abdul-Quayyum
 Software Developer💻
 ------------------
 
-Software Developer using JavaScript || TypeScript || React.Js || Next.Js || Express.Js || Node.Js || Flutter || React-Native Technologies to solve problems
-
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [Alao Abdul-Quayyum](http://alao-abdul-quayyum-portfolio.vercel.app/)
 * ✉️  You can contact me at [alaoabdulquayyumm@gmail.com](mailto:alaoabdulquayyumm@gmail.com)
