@@ -1,7 +1,7 @@
 Hi I'm Alao Abdul-Quayyum
 ===================================
 
-A Software Developer
+I'm a Software Developer
 ------------------
 
 * 🌍  I'm based in Nigeria
