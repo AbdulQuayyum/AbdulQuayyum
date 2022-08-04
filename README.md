@@ -1,4 +1,4 @@
-I am Alao Abdul-Quayyum
+Hi I'm Alao Abdul-Quayyum
 ===================================
 
 Software Developer
