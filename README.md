@@ -1,14 +1,14 @@
 Hi I'm Alao Abdul-Quayyum
 ===================================
 
-Software Developer
+I'm a Software Developer
 ------------------
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [Alao Abdul-Quayyum](http://alao-abdul-quayyum-portfolio.vercel.app/)
 * ✉️  You can contact me at [alaoabdulquayyumm@gmail.com](mailto:alaoabdulquayyumm@gmail.com)
-* 🧠  I'm learning More Frameworks and languages or Sleeping
-* 🤝  I'm open to collaborating on projects
+* 🧠  I'm learning languages, frameworks, libraries or probably sleeping
+* 🤝  I'm open to collaborating on projects
 * ⚡  Just be a rock.
 
 ### Skills
