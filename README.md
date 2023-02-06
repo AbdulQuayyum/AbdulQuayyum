@@ -1,4 +1,4 @@
-Hi I'm Abdul-Quayyum Alao
+Heyy I'm Abdul-Quayyum Alao
 ===================================
 
 I'm a Software Engineer
@@ -8,7 +8,7 @@ I'm a Software Engineer
 * 🖥️  See my portfolio at [Alao Abdul-Quayyum](https://abdul-quayyum.vercel.app/)
 * ✉️  You can contact me at [alaoabdulquayyumm@gmail.com](mailto:alaoabdulquayyumm@gmail.com)
 * 🧠  I'm learning languages, frameworks, libraries or (probably sleeping, eating or watching something)
-* 🤝  I'm open to collaborating on projects
+* 🤝  I'm available for collaboratins on projects
 * ⚡  Just be a rock.
 
 ### Skills
