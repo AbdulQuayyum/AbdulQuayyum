@@ -5,7 +5,7 @@ I'm a Software Engineer
 ------------------
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [Alao Abdul-Quayyum](https://abdul-quayyum.vercel.app/)
+* 🖥️  See my portfolio at [Portfolio](https://abdulquayyum.live)
 * ✉️  You can contact me at [alaoabdulquayyumm@gmail.com](mailto:alaoabdulquayyumm@gmail.com)
 * 🧠  I'm learning languages, frameworks, libraries or (probably sleeping, eating, appreciating work of art or watching something)
 * 🤝  I'm available for collaborations on projects
