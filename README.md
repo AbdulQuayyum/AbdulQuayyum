@@ -1,6 +1,9 @@
 Heyy, I'm Abdul-Quayyum 
 ===================================
 
+Software Engineer
+-------------
+
 * 🌍  I'm based in Nigeria
 * 🖥️  Check out my portfolio at [Portfolio](https://abdulquayyum.live)
 * 🧠  I'm learning or working on a project(or maybe sleeping, eating, appreciating work of art or watching something)
